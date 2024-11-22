@@ -1,0 +1,54 @@
+h1{
+    text-align: left;
+    color: rgb(21, 47, 132);
+    margin-left:40pt;   
+}
+p{
+    color: rgb(16, 13, 97);
+    text-align:left;
+    margin-left:40pt;
+    font-size:16pt;
+    font-style: italic;
+}
+
+.right{
+    
+    width:300px;
+    margin-top:80pt;
+}
+body{
+    margin-top:30pt;
+    text-align:left;
+    margin-left:40pt;
+    margin-right:300pt;
+    color: rgb(42, 92, 255);
+
+}
+
+.contactme{
+    margin-left: 40pt;
+padding-top: 10pt;
+color: rgb(16, 13, 97);
+
+}
+   
+   /*.rectangle {
+    position:fixed;
+    top: 90pt;
+    right: 10pt;
+
+    width: 700pt;
+    height: 100pt;
+    background: 2px solid rgb(163, 184, 255);
+   }*/
+
+   .rect2{
+    position:fixed;
+    top: 100pt;
+    right: 20pt;
+
+    width: 680pt;
+    height: 80pt;
+    background: rgb(187, 203, 255);
+   }
+
