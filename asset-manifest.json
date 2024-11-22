@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hannahhollingsworth/static/css/main.4ebd8724.css",
-    "main.js": "/hannahhollingsworth/static/js/main.363aaac2.js",
+    "main.css": "/hannahhollingsworth/static/css/main.0eda93aa.css",
+    "main.js": "/hannahhollingsworth/static/js/main.23c9a1b0.js",
     "index.html": "/hannahhollingsworth/index.html",
-    "main.4ebd8724.css.map": "/hannahhollingsworth/static/css/main.4ebd8724.css.map",
-    "main.363aaac2.js.map": "/hannahhollingsworth/static/js/main.363aaac2.js.map"
+    "main.0eda93aa.css.map": "/hannahhollingsworth/static/css/main.0eda93aa.css.map",
+    "main.23c9a1b0.js.map": "/hannahhollingsworth/static/js/main.23c9a1b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ebd8724.css",
-    "static/js/main.363aaac2.js"
+    "static/css/main.0eda93aa.css",
+    "static/js/main.23c9a1b0.js"
   ]
 }
