@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/hannahhollingsworth/static/css/main.0eda93aa.css",
-    "main.js": "/hannahhollingsworth/static/js/main.23c9a1b0.js",
+    "main.css": "/hannahhollingsworth/static/css/main.09abafa9.css",
+    "main.js": "/hannahhollingsworth/static/js/main.b2cc45fd.js",
+    "static/js/453.10d562c4.chunk.js": "/hannahhollingsworth/static/js/453.10d562c4.chunk.js",
     "index.html": "/hannahhollingsworth/index.html",
-    "main.0eda93aa.css.map": "/hannahhollingsworth/static/css/main.0eda93aa.css.map",
-    "main.23c9a1b0.js.map": "/hannahhollingsworth/static/js/main.23c9a1b0.js.map"
+    "main.09abafa9.css.map": "/hannahhollingsworth/static/css/main.09abafa9.css.map",
+    "main.b2cc45fd.js.map": "/hannahhollingsworth/static/js/main.b2cc45fd.js.map",
+    "453.10d562c4.chunk.js.map": "/hannahhollingsworth/static/js/453.10d562c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eda93aa.css",
-    "static/js/main.23c9a1b0.js"
+    "static/css/main.09abafa9.css",
+    "static/js/main.b2cc45fd.js"
   ]
 }
